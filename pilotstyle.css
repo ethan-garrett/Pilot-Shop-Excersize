@@ -60,3 +60,17 @@ html{
 	color: white;
 	font-size: 4rem;
 }
+
+.WideRangeLower{
+	display: flex;
+	position: relative;
+	top: 100px;
+}
+
+
+.ArticleBox{
+	background-color: red;
+	width: 150px;
+	height: 200px;
+	margin: 10px;
+}
