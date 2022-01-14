@@ -12,25 +12,51 @@ html{
 	background-color: #d4d4d4;
 }
 
-.NavBarContactNum{
+.NavBarContactNumContainer{
 	display: flex;
-	margin: 1rem;
+}
+.NavBarContactNumContainer, p{
+	display: flex;
+	padding: 10px;
 }
 
 .NavBarSecondary{
 	display: flex;
-	margin: 1rem;
+	margin: 10px;
 }
 
 .NavBarSecondayNav{
-	margin: 1rem;
+	margin: 10px;
 }
 
 .NavBarSecondayLinks{
-	margin: 1rem;
+	margin: 10px;
 }
 
 .NavBarLower{
 	display: flex;
 	justify-content: space-around;
+}
+
+.NavBarMain{
+	margin: 10px;
+	padding: 10px;
+}
+
+.NavBarMainLinks{
+	margin: 10px;
+}
+
+.WideRangeContainerBack{
+	width: 100%;
+	height: 500px;
+	background-color: blue;
+	display: flex;
+	justify-content: center;
+}
+
+.WideRangeUpper, h2{
+	margin-top: 150px;
+	color: white;
+	font-size: 4rem;
 }
