@@ -5,3 +5,27 @@
 html{
 	font-size: 62.5%;
 }
+
+.NavBarUpper{
+	display: flex;
+	justify-content: space-around;
+	margin: 1rem;
+}
+
+.NavBarContactNum{
+	display: flex;
+	margin: 1rem;
+}
+
+.NavBarSecondary{
+	display: flex;
+	margin: 1rem;
+}
+
+.NavBarSecondayNav{
+	margin: 1rem;
+}
+
+.NavBarSecondayLinks{
+	margin: 1rem;
+}
